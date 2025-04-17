@@ -1,7 +1,4 @@
-# José Artur Bruno da Silva
-
-**Nacionalidade:** Brasileiro, solteiro, 30 anos  
-**E-mail:** bruno_silva_a@outlook.com  
+# Bruno  Silva
 
 ---
 
