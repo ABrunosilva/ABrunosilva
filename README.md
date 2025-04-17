@@ -1,16 +1,43 @@
-## Hi there 👋
+# José Artur Bruno da Silva
 
-<!--
-**ABrunosilva/ABrunosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nacionalidade:** Brasileiro, solteiro, 30 anos  
+**E-mail:** bruno_silva_a@outlook.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+Sou um profissional em formação na área de **Análise e Desenvolvimento de Sistemas** com facilidade para aprender, socializar e trabalhar em equipe. Busco uma oportunidade na área de desenvolvimento de software, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
+
+---
+
+## 📚 Formação
+
+- **Análise e Desenvolvimento de Sistemas** (Cursando)  
+- **Inglês** – CNA (Conclusão em 2013)  
+- **Informática** – Norte Cursos  
+
+---
+
+## 🛠 Competências
+
+- Boa comunicação  
+- Facilidade em aprender  
+- Abordagem pragmática  
+- Trabalho em equipe  
+- Resolução de problemas  
+
+---
+
+
+## 🚀 Qualificações e Atividades Complementares
+
+- Inglês intermediário  
+- Java (intermediário)  
+- Kotlin (iniciante)  
+- SQL (intermediário)  
+- Técnico em instalação de câmeras  
+- Manutenção de microcomputadores  
+- Manutenção de ponto biométrico  
+
+---
